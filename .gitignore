@@ -1,0 +1,16 @@
+.env
+data/
+veltrix_assessment/
+__MACOSX/
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.models_cache/
+*.db-wal
+*.db-shm
+.server.log
+*.xlsx
